@@ -57,7 +57,7 @@ sockjs-tornado==1.0.1
 sourcemap==0.1.8
 tornado==2.4.1
 twitter==1.17.0
-ujson==1.33
+ujson==5.4.0
 uritemplate==0.6
 wsgiref==0.1.2
 zope.interface==4.1.2
